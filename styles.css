@@ -15,5 +15,14 @@ body{
     background-color: chartreuse;
 
 }
-    
+test-box{
+    border: 10px solid black;
+    padding: 30px;
+}
+img{
+    float: left;
+}
+sidebar{
+    width: 30%;
+    float: right;
 }
