@@ -21,6 +21,7 @@ test-box{
 }
 img{
     float: left;
+    border-inline-width: 10px;
 }
 sidebar{
     width: 30%;
