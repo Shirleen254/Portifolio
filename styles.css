@@ -12,7 +12,9 @@ h2{
  
 }
 body{
-    background-color:red
+    background-color:red;
+    font-family: sans-serif;
+    
 
 }
 test-box{
