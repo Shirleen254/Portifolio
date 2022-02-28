@@ -9,14 +9,14 @@ h1{
 h2{
     font-size: large;
     color: black;
-    font-style: italic;
+ 
 }
 body{
-    background-color: chartreuse;
+    background-color: whitesmoke;
 
 }
 test-box{
-    border: 10px solid black;
+    border: 10px solid:blue
     padding: 30px;
 }
 img{
